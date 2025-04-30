@@ -34,7 +34,7 @@ Topics included:
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/python_for_absolute_beginners.git
+https://github.com/arshikhan229/python_for_absolute_beginners.git
 cd python_for_absolute_beginners
 
 
