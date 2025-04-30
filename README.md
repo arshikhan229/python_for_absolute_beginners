@@ -53,7 +53,3 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 🙌 Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests to improve or expand this beginner-friendly guide.
-
-bash
-Copy
-Edit
